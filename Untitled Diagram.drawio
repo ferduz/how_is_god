@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T15:20:53.554Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" version="16.2.4" etag="8U4kqjKzvAD2ua1AG9Yd" type="github"><diagram id="on2fTP1PRdMODFG_UwSn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-10T15:21:13.657Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="kvZuIoPdwUub06IpfSJ4" version="16.2.4" type="github">
+  <diagram id="on2fTP1PRdMODFG_UwSn" name="Page-1">
+    <mxGraphModel dx="1102" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WMKCZBinHGrDJwavF8vW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;labelBorderColor=default;" edge="1" parent="1" source="WMKCZBinHGrDJwavF8vW-2" target="WMKCZBinHGrDJwavF8vW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-2" value="how is God?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;labelBorderColor=default;" edge="1" parent="1" source="WMKCZBinHGrDJwavF8vW-5" target="WMKCZBinHGrDJwavF8vW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;labelBorderColor=default;" edge="1" parent="1" source="WMKCZBinHGrDJwavF8vW-5" target="WMKCZBinHGrDJwavF8vW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-5" value="is God gracious?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-6" value="&lt;div&gt;For that reason there is evil in the world.&lt;/div&gt;&lt;div&gt;Problem solved.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMKCZBinHGrDJwavF8vW-9" target="WMKCZBinHGrDJwavF8vW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;labelBorderColor=default;" edge="1" parent="1" source="WMKCZBinHGrDJwavF8vW-9" target="WMKCZBinHGrDJwavF8vW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-9" value="&lt;br&gt;may God see and know everything?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="140" y="277.5" width="160" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMKCZBinHGrDJwavF8vW-12" target="WMKCZBinHGrDJwavF8vW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WMKCZBinHGrDJwavF8vW-12" target="WMKCZBinHGrDJwavF8vW-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-12" value="is God mighty?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-13" value="There is evil in the world, therefore, God does not meet all or any of the 3 previous conditions." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="550" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-14" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-15" value="&lt;div&gt;For that reason there is evil in the world.&lt;/div&gt;&lt;div&gt;Problem solved.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="300" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-16" value="&lt;div&gt;For that reason there is evil in the world.&lt;/div&gt;&lt;div&gt;Problem solved.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-17" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="430" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-18" value="No&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-19" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="257.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-20" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WMKCZBinHGrDJwavF8vW-21" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
